@@ -8,7 +8,7 @@
   
   </div>
 <div align="center">
-  <img src="" width="600" height="300"/>
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="600" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
