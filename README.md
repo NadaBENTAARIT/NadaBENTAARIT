@@ -3,7 +3,7 @@
 
 <h1>
   hey I'm Nada
-  <img src="" width="30px"/>
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30px"/>
 </h1>
   
   </div>
