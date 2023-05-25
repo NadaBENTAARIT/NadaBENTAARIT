@@ -37,7 +37,7 @@
 <div>
 
 <a href="https://www.linkedin.com/in/nada-ben-taarit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hybridoitc" height="30" width="40" /></a>
-  <a href="[[(https://www.facebook.com/nada.bentaarit.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hybridoitc" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/nada.bentaarit.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hybridoitc" height="30" width="40" /></a>
 <a href="https://instagram.com/hybridoitc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hybridoitc" height="30" width="40" /></a>
 
 </p>
