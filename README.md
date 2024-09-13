@@ -12,7 +12,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- :telescope: I’am a software engineering student and I'm contributing to frontend and backend for building web applications.
+- :telescope: I’am a software engineering and I'm contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
